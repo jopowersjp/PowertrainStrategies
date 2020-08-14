@@ -1,4 +1,4 @@
-# PowertrainStrategies
+# Powertrain Strategies
 
 Undergraduate Research Opportunity Program, University of Michigan
 
